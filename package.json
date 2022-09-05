@@ -17,9 +17,15 @@
     "url": "https://github.com/nahumoiguer/tp37215/issues"
   },
   "homepage": "https://github.com/nahumoiguer/tp37215#readme",
-  "keywords": [],
-  "description": "",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "SASS",
+    "BOOTSTRAP"
+  ],
+  "description": "Proyecto para coderhouse",
   "devDependencies": {
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
   }
 }
