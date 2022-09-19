@@ -75,6 +75,10 @@ ul{
     transition: transform 0.3s ease-in-out;
 }
 
+a{
+    text-decoration: none;
+}
+
 .menu-negro{
     display: flex;
     justify-content: center;
@@ -92,6 +96,7 @@ ul{
 
 .link-item-negro:hover{
     color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 
 ul{
