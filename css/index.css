@@ -545,7 +545,7 @@ ul{
 	content: "";
 	width: 2px;
 	height: 100%;
-	background: #1b3231;
+	background: #2b2b2b;
 	position: absolute;
 	top: 0;
 	left: calc(50% - 1px);
@@ -565,8 +565,8 @@ ul{
 	width: 14px;
 	height: 14px;
 	border-radius: 100px;
-	background: #DCDFD9;
-	border: 2px solid #1b3231;
+	background: #fff;
+	border: 2px solid #2b2b2b;
 	position: absolute;
 	z-index: 2;
 	top: calc(50% - 9px);
