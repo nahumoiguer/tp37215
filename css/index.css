@@ -548,7 +548,7 @@ ul{
 	background: #2b2b2b;
 	position: absolute;
 	top: 0;
-	left: calc(50% - 1px);
+	left: calc(50% - 3px);
 	z-index: 1;
 }
 
